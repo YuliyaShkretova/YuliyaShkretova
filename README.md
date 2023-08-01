@@ -1,10 +1,10 @@
 # Hello! 
 
-
 ## About me
- My name is Yuliya. 👩‍💻
- I'm an aspiring QA Automation engineer with a focus on Python. 
- I have around 1.5 years of experience in manual testing. 
+ My name is Yuliya. 👩‍💻   
+ Originally from Moscow, Russia. Currently living in Serbia.  
+ I'm an aspiring QA Automation engineer (Python).   
+ I have around 1.5 years of experience in manual testing.   
  My passion for technology and my desire to create high-quality software inspire and drive me to further develop in the QA field. 
 
 
@@ -28,6 +28,10 @@
 </p>
 
 
+## Projects:
+#### - [API](https://github.com/YuliyaShkretova/qa_guru_API)
+#### - [UI](https://github.com/YuliyaShkretova/qa_guru_UI) 
+
 
 ## Education:
 <p>
@@ -38,9 +42,16 @@
   <a href="https://pointschool.ru/" target="_blank">
     <img width="35%" title="point" src="resource/point.png">
   </a>
+
+  <a href="https://stepik.org/cert/2120359" target="_blank">
+    <img width="16%" title="stepik_python" src="resource/stepik_1.png">
+  </a>
+
 </p>
 
 
-## Projects:
-- [API](https://github.com/YuliyaShkretova/qa_guru_API)
-- [UI](https://github.com/YuliyaShkretova/qa_guru_UI) 
+#### Main education:
+<p>
+  <code><img width="15%" title="Plekhanov Russian University of Economics." src="resource/reu.png"></code>
+</p>
+
