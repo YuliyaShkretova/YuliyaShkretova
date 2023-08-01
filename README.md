@@ -31,11 +31,11 @@
 
 ## Education:
 <p>
-  <a href="https://pointschool.ru/" target="_blank">
+  <a href="https://qa.guru/python" target="_blank">
     <img width="20%" title="qa_guru" src="resource/qa_guru.png">
   </a>
 
-  <a href="https://qa.guru/python" target="_blank">
+  <a href="https://pointschool.ru/" target="_blank">
     <img width="35%" title="point" src="resource/point.png">
   </a>
 </p>
